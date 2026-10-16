@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.creamykeys.linux.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "KeyboardMixin",
+    "MouseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
