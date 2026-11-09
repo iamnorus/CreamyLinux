@@ -1,0 +1,18 @@
+{
+  "key.creamykeys.open_config": "Open CreamyKeys settings",
+  "key.categories.creamykeys.general": "CreamyKeys Linux",
+  "screen.creamykeys.config": "CreamyKeys Linux Settings",
+  "screen.creamykeys.keyboard": "Keyboard sounds: %s",
+  "screen.creamykeys.mouse": "Mouse sounds: %s",
+  "screen.creamykeys.volume": "Volume: %s%%",
+  "screen.creamykeys.pitch": "Pitch: %s%%",
+  "screen.creamykeys.enabled": "Sounds enabled: %s",
+  "screen.creamykeys.tail": "Sound tail: %s",
+  "screen.creamykeys.tail.soft": "Soft fade",
+  "screen.creamykeys.tail.crisp": "Crisp",
+  "screen.creamykeys.test_keyboard": "Test keyboard",
+  "screen.creamykeys.test_mouse": "Test mouse",
+  "screen.creamykeys.custom_hint": "Choose Custom to use your own sounds.",
+  "screen.creamykeys.test_hint": "Preview buttons play your current selections.",
+  "profile.creamykeys.same_as_keyboard": "Same as keyboard"
+}
